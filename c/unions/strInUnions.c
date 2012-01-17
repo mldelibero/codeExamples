@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// This example shows how to use structs inside of unions.
+
 typedef union {
     int num;
     int num2;
