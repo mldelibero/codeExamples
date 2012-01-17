@@ -21,3 +21,4 @@ def increment(x):
 a = [1,2,3,4,5]
 print map(increment,a)
 print map(increment,a) == rmap(increment,a)
+
